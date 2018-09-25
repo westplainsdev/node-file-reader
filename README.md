@@ -1,4 +1,4 @@
-# node-reader
+# node-file-reader
 Using node to read the local file system
 
 ## Instructions
